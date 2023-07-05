@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.2.1
+
+- Added support for nested has_many dynamically added fields
+
 ## 0.2.0
 
 - Allow selecting the only option
